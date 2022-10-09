@@ -1,0 +1,238 @@
+{
+  "center": [0, 0, 0],
+  "zmin": 0.01,
+  "zmax": 50000000000,
+  "camera": [0, 12.605414075531135, 0],
+  "cameraRotation": [
+    -1.5707963267948966, 0.0, -1.5707963267948966
+  ],
+  "cameraUp": [0.819464632296597, 0.14954426271273424, 0.5532759075765],
+  "quaternion": [
+    -0.4414699840591313, 0.2268621530788507, 0.6164249922407801,
+    0.6112757525178083
+  ],
+  "startFly": false,
+  "startVR": false,
+  "startColumnDensity": false,
+  "startTween": true,
+  "friction": 0.1,
+  "stereo": false,
+  "stereoSep": 0.06,
+  "decimate": "1.0",
+  "maxVrange": 2000,
+  "minPointScale": 0.01,
+  "maxPointScale": 10,
+  "showFPS": true,
+  "showMemoryUsage": true,
+  "memoryLimit": 2000000000,
+  "GUIExcludeList": [],
+  "collapseGUIAtStart": true,
+  "UIparticle": {},
+  "UIdropdown": {},
+  "UIcolorPicker": {},
+  "showParts": {
+    "Target_core": true,
+    "Target_mantle": true,
+    "Impactor_core": true,
+    "Impactor_mantle": true
+  },
+  "sizeMult": {
+    "Target_core": 0.0125,
+    "Target_mantle": 0.0098,
+    "Impactor_core": 0.008,
+    "Impactor_mantle": 0.0092
+  },
+  "color": {
+    "Target_core": [
+      0.7686274509803922, 0.6509803921568628, 0.5882352941176471, 1
+    ],
+    "Target_mantle": [0.4371384545, 0.0476613609, 0.7504748226, 1],
+    "Impactor_core": [0.3131908049, 0.0679175893, 0.3439645431, 1],
+    "Impactor_mantle": [0.2288789333, 0.3099931052, 0.1220970792, 1]
+  },
+  "plotNmax": {
+    "Target_core": 30534,
+    "Target_mantle": 91646,
+    "Impactor_core": 39089,
+    "Impactor_mantle": 91168
+  },
+  "showVel": {
+    "Target_core": false,
+    "Target_mantle": false,
+    "Impactor_core": false,
+    "Impactor_mantle": false
+  },
+  "velType": {
+    "Target_core": "line",
+    "Target_mantle": "line",
+    "Impactor_core": "line",
+    "Impactor_mantle": "line"
+  },
+  "velVectorWidth": {
+    "Target_core": 1,
+    "Target_mantle": 1,
+    "Impactor_core": 1,
+    "Impactor_mantle": 1
+  },
+  "velGradient": {
+    "Target_core": 0,
+    "Target_mantle": 0,
+    "Impactor_core": 0,
+    "Impactor_mantle": 0
+  },
+  "animateVel": {
+    "Target_core": false,
+    "Target_mantle": false,
+    "Impactor_core": false,
+    "Impactor_mantle": false
+  },
+  "animateVelDt": {},
+  "animateVelTmax": {},
+  "filterLims": {
+    "Target_core": {
+      "Internal energy": [7.0332826843261715, 7.672266078948975],
+      "Temperature": [8.73280184173584, 9.26109178161621],
+      "Velocity": [38.71894781494141, 39.65251596069336]
+    },
+    "Target_mantle": {
+      "Internal energy": [6.484550880432129, 7.6831808815002445],
+      "Temperature": [7.67104475402832, 8.648397994995117],
+      "Velocity": [38.542628692626955, 42.40510232543945]
+    },
+    "Impactor_core": {
+      "Internal energy": [7.332524703979492, 7.856408668518067],
+      "Temperature": [9.083955215454102, 9.491923881530761],
+      "Velocity": [38.59648458862305, 39.288040710449216]
+    },
+    "Impactor_mantle": {
+      "Internal energy": [6.561474250793457, 7.915049148559571],
+      "Temperature": [7.820574687957763, 8.950333190917968],
+      "Velocity": [38.379081176757815, 39.82124002075195]
+    }
+  },
+  "filterVals": {
+    "Target_core": {
+      "Internal energy": [7.0332826843261715, 7.672266078948975],
+      "Temperature": [8.73280184173584, 9.26109178161621],
+      "Velocity": [38.71894781494141, 39.65251596069336]
+    },
+    "Target_mantle": {
+      "Internal energy": [6.484550880432129, 7.6831808815002445],
+      "Temperature": [7.67104475402832, 8.648397994995117],
+      "Velocity": [38.542628692626955, 42.40510232543945]
+    },
+    "Impactor_core": {
+      "Internal energy": [7.332524703979492, 7.856408668518067],
+      "Temperature": [9.083955215454102, 9.491923881530761],
+      "Velocity": [38.59648458862305, 39.288040710449216]
+    },
+    "Impactor_mantle": {
+      "Internal energy": [6.561474250793457, 7.915049148559571],
+      "Temperature": [7.820574687957763, 8.950333190917968],
+      "Velocity": [38.379081176757815, 39.82124002075195]
+    }
+  },
+  "invertFilter": {
+    "Target_core": {
+      "Internal energy": false,
+      "Temperature": false,
+      "Velocity": false
+    },
+    "Target_mantle": {
+      "Internal energy": false,
+      "Temperature": false,
+      "Velocity": false
+    },
+    "Impactor_core": {
+      "Internal energy": false,
+      "Temperature": false,
+      "Velocity": false
+    },
+    "Impactor_mantle": {
+      "Internal energy": false,
+      "Temperature": false,
+      "Velocity": false
+    }
+  },
+  "colormapLims": {
+    "Target_core": {
+      "Internal energy": [7.0332826843261715, 7.672266078948975],
+      "Temperature": [8.73280184173584, 9.26109178161621],
+      "Velocity": [38.71894781494141, 39.65251596069336]
+    },
+    "Target_mantle": {
+      "Internal energy": [6.484550880432129, 7.6831808815002445],
+      "Temperature": [7.67104475402832, 8.648397994995117],
+      "Velocity": [38.542628692626955, 42.40510232543945]
+    },
+    "Impactor_core": {
+      "Internal energy": [7.332524703979492, 7.856408668518067],
+      "Temperature": [9.083955215454102, 9.491923881530761],
+      "Velocity": [38.59648458862305, 39.288040710449216]
+    },
+    "Impactor_mantle": {
+      "Internal energy": [6.561474250793457, 7.915049148559571],
+      "Temperature": [7.820574687957763, 8.950333190917968],
+      "Velocity": [38.379081176757815, 39.82124002075195]
+    }
+  },
+  "colormapVals": {
+    "Target_core": {
+      "Internal energy": [7.0332826843261715, 7.672266078948975],
+      "Temperature": [8.73280184173584, 9.26109178161621],
+      "Velocity": [38.71894781494141, 39.65251596069336]
+    },
+    "Target_mantle": {
+      "Internal energy": [6.484550880432129, 7.6831808815002445],
+      "Temperature": [7.67104475402832, 8.648397994995117],
+      "Velocity": [38.542628692626955, 42.40510232543945]
+    },
+    "Impactor_core": {
+      "Internal energy": [7.332524703979492, 7.856408668518067],
+      "Temperature": [9.083955215454102, 9.491923881530761],
+      "Velocity": [38.59648458862305, 39.288040710449216]
+    },
+    "Impactor_mantle": {
+      "Internal energy": [6.561474250793457, 7.915049148559571],
+      "Temperature": [7.820574687957763, 8.950333190917968],
+      "Velocity": [38.379081176757815, 39.82124002075195]
+    }
+  },
+  "showColormap": {
+    "Target_core": true,
+    "Target_mantle": true,
+    "Impactor_core": true,
+    "Impactor_mantle": true
+  },
+  "colormap": {
+    "Target_core": 0.015625,
+    "Target_mantle": 0.953125,
+    "Impactor_core": 0.171875,
+    "Impactor_mantle": 0.078125
+  },
+  "colormapVariable": {
+    "Target_core": 0,
+    "Target_mantle": 0,
+    "Impactor_core": 0,
+    "Impactor_mantle": 0
+  },
+  "blendingMode": {
+    "Target_core": "normal",
+    "Target_mantle": "additive",
+    "Impactor_core": "normal",
+    "Impactor_mantle": "additive"
+  },
+  "depthTest": {
+    "Target_core": true,
+    "Target_mantle": true,
+    "Impactor_core": true,
+    "Impactor_mantle": true
+  },
+  "radiusVariable": {
+    "Target_core": 0,
+    "Target_mantle": 0,
+    "Impactor_core": 0,
+    "Impactor_mantle": 0
+  },
+  "loaded": true
+}

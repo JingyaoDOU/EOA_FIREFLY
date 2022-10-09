@@ -1,0 +1,8 @@
+{
+  "Target_core": [["polarIMPACT/DataTarget_core000.ffly", 38848]],
+  "Target_mantle": [["polarIMPACT/DataTarget_mantle000.ffly", 91646]],
+  "Impactor_core": [["polarIMPACT/DataImpactor_core000.ffly", 39089]],
+  "Impactor_mantle": [["polarIMPACT/DataImpactor_mantle000.ffly", 91168]],
+  "options": [["polarIMPACT/DataSettings.json", 0]],
+  "tweenParams": [["polarIMPACT/TweenParams.json", 0]]
+}

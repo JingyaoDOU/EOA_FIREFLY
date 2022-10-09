@@ -1,1 +1,35 @@
-{"core":[["EOA_lowV_B0_SNAP29\/Datacore000.ffly",100000],["EOA_lowV_B0_SNAP29\/Datacore001.ffly",100000],["EOA_lowV_B0_SNAP29\/Datacore002.ffly",100000],["EOA_lowV_B0_SNAP29\/Datacore003.ffly",100000],["EOA_lowV_B0_SNAP29\/Datacore004.ffly",100000],["EOA_lowV_B0_SNAP29\/Datacore005.ffly",38857]],"mantle":[["EOA_lowV_B0_SNAP29\/Datamantle000.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle001.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle002.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle003.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle004.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle005.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle006.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle007.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle008.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle009.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle010.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle011.ffly",100000],["EOA_lowV_B0_SNAP29\/Datamantle012.ffly",62123]],"water":[["EOA_lowV_B0_SNAP29\/Datawater000.ffly",100000],["EOA_lowV_B0_SNAP29\/Datawater001.ffly",100000],["EOA_lowV_B0_SNAP29\/Datawater002.ffly",100000],["EOA_lowV_B0_SNAP29\/Datawater003.ffly",100000],["EOA_lowV_B0_SNAP29\/Datawater004.ffly",56628]],"atmosphere":[["EOA_lowV_B0_SNAP29\/Dataatmosphere000.ffly",91584]],"options":[["EOA_lowV_B0_SNAP29\/DataSettings.json",0]],"tweenParams":[["EOA_lowV_B0_SNAP29\/TweenParams.json",0]]}
+{
+  "core": [
+    ["EOA_lowV_B0_SNAP29/Datacore000.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datacore001.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datacore002.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datacore003.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datacore004.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datacore005.ffly", 38857]
+  ],
+  "mantle": [
+    ["EOA_lowV_B0_SNAP29/Datamantle000.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle001.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle002.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle003.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle004.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle005.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle006.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle007.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle008.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle009.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle010.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle011.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datamantle012.ffly", 62123]
+  ],
+  "water": [
+    ["EOA_lowV_B0_SNAP29/Datawater000.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datawater001.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datawater002.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datawater003.ffly", 100000],
+    ["EOA_lowV_B0_SNAP29/Datawater004.ffly", 56628]
+  ],
+  "atmosphere": [["EOA_lowV_B0_SNAP29/Dataatmosphere000.ffly", 91584]],
+  "options": [["EOA_lowV_B0_SNAP29/DataSettings.json", 0]],
+  "tweenParams": [["EOA_lowV_B0_SNAP29/TweenParams.json", 0]]
+}
